@@ -1,2 +1,1 @@
-# Waves-basic
-Simple 1D and 2D sin wave simulation in python
+# Self-learning (simulation, numerical methods and solving equations in python) 
